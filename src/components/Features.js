@@ -1,6 +1,6 @@
 function Features() {
   return (
-    <section classNameName="features">
+    <section className="features">
     {/* <div className="feature">
         <svg className="feature__icon">
             <use xlink:href="img/sprite.svg#icon-global"></use>

@@ -4,6 +4,10 @@ import Sidebar from "./components/Sidebar"
 import Header from "./components/Header"
 import Realtors from "./components/Realtors"
 import Features from "./components/Features"
+import Stories from "./components/Stories"
+import Homes from "./components/Homes"
+import Gallery from "./components/Gallery"
+import Footer from "./components/Footer"
 
 
 class App extends React.Component{
@@ -14,6 +18,10 @@ class App extends React.Component{
           <Header/>
           <Realtors/>
           <Features/>
+          <Stories/>
+          <Homes/>
+          <Gallery/>
+          <Footer/>
       </React.Fragment>
     );
   }
