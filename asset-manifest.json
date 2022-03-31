@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/React-and-Css-Grid/static/css/main.9b8a66b5.css",
-    "main.js": "/React-and-Css-Grid/static/js/main.e13cc287.js",
+    "main.js": "/React-and-Css-Grid/static/js/main.cfb42efc.js",
     "static/media/story-2.jpeg": "/React-and-Css-Grid/static/media/story-2.a4b81b65c61ded73fae0.jpeg",
     "static/media/back.jpg": "/React-and-Css-Grid/static/media/back.61e1025ca0a133abab79.jpg",
     "static/media/story-1.jpeg": "/React-and-Css-Grid/static/media/story-1.0d3562ce245da442086d.jpeg",
+    "static/media/sprite.svg": "/React-and-Css-Grid/static/media/sprite.6b44b8c15209cefbddcec9e94281741a.svg",
     "index.html": "/React-and-Css-Grid/index.html",
     "main.9b8a66b5.css.map": "/React-and-Css-Grid/static/css/main.9b8a66b5.css.map",
-    "main.e13cc287.js.map": "/React-and-Css-Grid/static/js/main.e13cc287.js.map"
+    "main.cfb42efc.js.map": "/React-and-Css-Grid/static/js/main.cfb42efc.js.map"
   },
   "entrypoints": [
     "static/css/main.9b8a66b5.css",
-    "static/js/main.e13cc287.js"
+    "static/js/main.cfb42efc.js"
   ]
 }
