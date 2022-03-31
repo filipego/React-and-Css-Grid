@@ -1,12 +1,17 @@
 import React from "react";
 
+import storyImgOne from "../img/story-1.jpeg";
+import storyImgTwo from "../img/story-2.jpeg";
+
+
 
 class Stories extends React.Component{
   render(){
     return (
       <React.Fragment>
         <div className="story__pictures">
-        
+            <img src={storyImgOne} alt="Couple with new house" class="story__img--1"/>
+            <img src={storyImgTwo} alt="Couple with new house" class="story__img--2"/>
         </div>
     
         <div className="story__content">
