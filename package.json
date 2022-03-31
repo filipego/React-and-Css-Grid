@@ -1,7 +1,7 @@
 {
+  "homepage": "https://filipego.github.io/React-and-Css-Grid",
   "name": "app",
   "version": "0.1.0",
-  "homepage": "https://filipego.github.io/React-and-Css-Grid",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
