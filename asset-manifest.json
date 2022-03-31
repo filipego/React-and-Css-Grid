@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-and-Css-Grid/static/css/main.55536464.css",
+    "main.js": "/React-and-Css-Grid/static/js/main.4d47babe.js",
+    "index.html": "/React-and-Css-Grid/index.html",
+    "main.55536464.css.map": "/React-and-Css-Grid/static/css/main.55536464.css.map",
+    "main.4d47babe.js.map": "/React-and-Css-Grid/static/js/main.4d47babe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55536464.css",
+    "static/js/main.4d47babe.js"
+  ]
+}
