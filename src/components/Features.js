@@ -1,11 +1,11 @@
-import iconOne from "../img/sprite.svg";
+import sprite from "../img/sprite.svg";
 
 function Features() {
   return (
     <section className="features">
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-global"}></use>
+            <use xlinkHref={sprite + "#icon-global"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">World's best luxury homes</h4>
         <p className="feature__text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
@@ -13,7 +13,7 @@ function Features() {
 
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-trophy"}></use>
+            <use xlinkHref={sprite + "#icon-trophy"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">Only the best properties</h4>
         <p className="feature__text">Voluptatum mollitia quae. Vero ipsum sapiente molestias accusamus rerum sed a eligendi aut quia.</p>
@@ -21,7 +21,7 @@ function Features() {
 
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-map-pin"}></use>
+            <use xlinkHref={sprite + "#icon-map-pin"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">All homes in in top locations</h4>
         <p className="feature__text">Tenetur distinctio necessitatibus pariatur voluptatibus quidem consequatur harum.</p>
@@ -29,7 +29,7 @@ function Features() {
 
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-key"}></use>
+            <use xlinkHref={sprite + "#icon-key"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">New home in one week</h4>
         <p className="feature__text">Vero ipsum sapiente molestias accusamus rerum. Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
@@ -37,7 +37,7 @@ function Features() {
 
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-presentation"}></use>
+            <use xlinkHref={sprite + "#icon-presentation"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">Top 1% realtors</h4>
         <p className="feature__text">Quidem consequatur harum, voluptatum mollitia quae. Tenetur distinctio necessitatibus pariatur voluptatibus.</p>
@@ -45,7 +45,7 @@ function Features() {
 
     <div className="feature">
         <svg className="feature__icon">
-            <use xlinkHref={iconOne + "#icon-lock"}></use>
+            <use xlinkHref={sprite + "#icon-lock"}></use>
         </svg>
         <h4 className="heading-4 heading-4--dark">Secure payments on nexter</h4>
         <p className="feature__text">Pariatur voluptatibus quidem consequatur harum, voluptatum mollitia quae.</p>
