@@ -11,7 +11,7 @@ function Realtors() {
       <div className="realtors__list">
           <RealtorsList realtor_img={realtor1} realtor_img_alt="Realtor 1" name="Erik Feinman" sold="45 houses sold"  />
           <RealtorsList realtor_img={realtor2} realtor_img_alt="Realtor 2" name="Kim Brown" sold="212 houses sold"  />
-          <RealtorsList realtor_img={realtor3} realtor_img_alt="Realtor 3" name="Toby Ramsey<" sold="198 houses sold"  />
+          <RealtorsList realtor_img={realtor3} realtor_img_alt="Realtor 3" name="Toby Ramsey" sold="198 houses sold"  />
       </div>
     </div>
   );
