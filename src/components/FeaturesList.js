@@ -1,8 +1,7 @@
 import Sprite from "../img/sprite.svg";
 
-function FeaturesList(props) {
+function FeaturesList({icon, title, text}) {
 
-    const { icon, title, text } = props;
 
   return (
     <div className="feature">

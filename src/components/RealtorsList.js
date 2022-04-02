@@ -1,7 +1,6 @@
 import React from "react";
 
-  function RealtorsList(props) {
-    const {realtor_img, realtors__img_alt, name, sold } = props;
+  function RealtorsList({realtor_img, realtors__img_alt, name, sold}) {
 
     return (
       <React.Fragment>
