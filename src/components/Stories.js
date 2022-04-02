@@ -10,8 +10,8 @@ class Stories extends React.Component{
     return (
       <React.Fragment>
         <div className="story__pictures">
-            <img src={storyImgOne} alt="Couple with new house" class="story__img--1"/>
-            <img src={storyImgTwo} alt="Couple with new house" class="story__img--2"/>
+            <img src={storyImgOne} alt="Couple with new house" className="story__img--1"/>
+            <img src={storyImgTwo} alt="Couple with new house" className="story__img--2"/>
         </div>
     
         <div className="story__content">
