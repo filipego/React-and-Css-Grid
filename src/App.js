@@ -1,4 +1,5 @@
 import React from "react";
+
 import './Base.scss';
 import Sidebar from "./components/Sidebar"
 import Header from "./components/Header"
@@ -10,23 +11,20 @@ import Gallery from "./components/Gallery"
 import Footer from "./components/Footer"
 
 
-class App extends React.Component{
-  render(){
-    return (
-      <React.Fragment>
-          <Sidebar/>
-          <Header/>
-          <Realtors/>
-          <Features/>
-          <Stories/>
-          <Homes/>
-          <Gallery/>
-          <Footer/>
-      </React.Fragment>
-    );
-  }
+function App() {
+  return (
+    <React.Fragment>
+        <Sidebar/>
+        <Header/>
+        <Realtors/>
+        <Features/>
+        <Stories/>
+        <Homes/>
+        <Gallery/>
+        <Footer/>
+    </React.Fragment>
+  );
 }
 
-
-
 export default App;
+
