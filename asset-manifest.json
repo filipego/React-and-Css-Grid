@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/React-and-Css-Grid/static/css/main.e0f35fd2.css",
-    "main.js": "/React-and-Css-Grid/static/js/main.91dff548.js",
+    "main.js": "/React-and-Css-Grid/static/js/main.67503931.js",
     "static/media/gal-10.jpeg": "/React-and-Css-Grid/static/media/gal-10.48d202648d8ad8f9bbb3.jpeg",
     "static/media/gal-14.jpeg": "/React-and-Css-Grid/static/media/gal-14.93f3855c42340c9ab36d.jpeg",
     "static/media/story-2.jpeg": "/React-and-Css-Grid/static/media/story-2.a4b81b65c61ded73fae0.jpeg",
@@ -36,10 +36,10 @@
     "static/media/sprite.svg": "/React-and-Css-Grid/static/media/sprite.6b44b8c15209cefbddcec9e94281741a.svg",
     "index.html": "/React-and-Css-Grid/index.html",
     "main.e0f35fd2.css.map": "/React-and-Css-Grid/static/css/main.e0f35fd2.css.map",
-    "main.91dff548.js.map": "/React-and-Css-Grid/static/js/main.91dff548.js.map"
+    "main.67503931.js.map": "/React-and-Css-Grid/static/js/main.67503931.js.map"
   },
   "entrypoints": [
     "static/css/main.e0f35fd2.css",
-    "static/js/main.91dff548.js"
+    "static/js/main.67503931.js"
   ]
 }
