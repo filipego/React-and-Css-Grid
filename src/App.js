@@ -1,30 +1,32 @@
 import React from "react";
-
+import {BrowserRouter as Router,Routes, Route, Link } from "react-router-dom";
 import './Base.scss';
-import Sidebar from "./components/Sidebar"
-import Header from "./components/Header"
-import Realtors from "./components/Realtors"
-import Features from "./components/Features"
-import Stories from "./components/Stories"
-import Homes from "./components/Homes"
-import Gallery from "./components/Gallery"
-import Footer from "./components/Footer"
+import Sidebar from "./components/Sidebar";
+import Home from "./components/Home";
+import About from "./components/About";
+import Footer from "./components/Footer";
 
 
-function App() {
-  return (
-    <React.Fragment>
-        <Sidebar/>
-        <Header/>
-        <Realtors/>
-        <Features/>
-        <Stories/>
-        <Homes/>
-        <Gallery/>
-        <Footer/>
-    </React.Fragment>
-  );
+class App extends React.Component{
+  render(){
+    return (
+      <React.Fragment>
+        <Router>
+          <Sidebar/>
+          <Routes>
+            <Route path="/" element={<Home/>}/>
+            <Route path="/about" element={<About/>}/>
+          </Routes>
+          <Footer/>
+        </Router>
+          
+          
+          
+      </React.Fragment>
+    );
+  }
 }
 
-export default App;
 
+
+export default App;
